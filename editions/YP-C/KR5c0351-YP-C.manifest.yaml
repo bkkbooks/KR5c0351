@@ -1,0 +1,52 @@
+canonical_identifier: bkk:krp/KR5c0351/YP-C/v1
+canonical_location: https://kanripo.org/bkk/KR5c0351/YP-C/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 許真君石函記
+  date: '2015-08-29 00:56:26.043995'
+  source:
+    repository: kanripo
+    path: KR5c0351
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+  edition:
+    short: YP-C
+    label: 【原版道藏輯要】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5c0351_000-YP-C.yaml, hash: 'sha256:f0fe0bec9f69e70de08a0caa9b7c4e7d54622848f83e62d3fbaaaa3fda98c481'}
+  - {seq: 1, filename: KR5c0351_001-YP-C.yaml, hash: 'sha256:dcb8e74b8ecbc8b8dc0b0b1d791ab3a1f4ca717ed1538ecc7971c7985300ae1e'}
+  - {seq: 2, filename: KR5c0351_002-YP-C.yaml, hash: 'sha256:ec8b23eabce8cf49aab2d89774db9b22d62579927573aeebce0f52f83b72f2de'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR5c0351_001-YP-C.markers.yaml, hash: 'sha256:0eaa024bba20e5948acc2fda8999989fda5c3580df04ff42492b36e4a5ec0652'}
+  - {seq: 2, role: markers, filename: assets/KR5c0351_002-YP-C.markers.yaml, hash: 'sha256:5cb035e0f91e44353f453f5969a65ce07b40b9a99af80d8c11b026e5767dadbe'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR5c0351_YP-C_12weiji-03-0029a
+    span:
+    - body
+    - 0
+    - 6291
+  label: juan 001
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR5c0351_YP-C_12weiji-03-0045a
+    span:
+    - body
+    - 0
+    - 7637
+  label: juan 002
+  type: section
+  level: 1
+hash: sha256:f14f8fdca68dd0857860d0b8c5d08156e8cb2a744492f2bb7987d08ccb386d2c

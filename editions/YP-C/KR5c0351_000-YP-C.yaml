@@ -1,0 +1,23 @@
+canonical_identifier: bkk:krp/KR5c0351/YP-C/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 許真君石函記
+  edition:
+    short: YP-C
+    label: 【原版道藏輯要】
+  date: '2015-08-29 00:56:26.043995'
+  source:
+    repository: kanripo
+    path: KR5c0351/KR5c0351_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+hash: sha256:f0fe0bec9f69e70de08a0caa9b7c4e7d54622848f83e62d3fbaaaa3fda98c481

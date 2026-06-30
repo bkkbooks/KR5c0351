@@ -1,0 +1,63 @@
+canonical_identifier: bkk:krp/KR5c0351/ZTDZ/v1
+canonical_location: https://kanripo.org/bkk/KR5c0351/ZTDZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 許真君石函記
+  date: '2015-08-29 00:56:26.043995'
+  source:
+    repository: kanripo
+    path: KR5c0351
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5c0351_000-ZTDZ.yaml, hash: 'sha256:1af9b117a5b239a0df56541e399b065fb11eab908d5f20d857e4ba5790045917'}
+  - {seq: 1, filename: KR5c0351_001-ZTDZ.yaml, hash: 'sha256:c1f236e502556899294d5a4b95ae81d8af3128787ebac6a78b412b3fd12864c4'}
+  - {seq: 2, filename: KR5c0351_002-ZTDZ.yaml, hash: 'sha256:ca66c3c8df4784c4c9a9ef31d8683e7d29430abebfafb6ccddba834d0413f74d'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5c0351_000-ZTDZ.markers.yaml, hash: 'sha256:ea1123bc2c0b300abba9c31e1c1f17656dd1755ea41365e1c5eb699ce9fa5eb5'}
+  - {seq: 1, role: markers, filename: assets/KR5c0351_001-ZTDZ.markers.yaml, hash: 'sha256:52bce1ebc4f7e8c3ec683a45466ca6eabf181a34e0a91e0b67bbac769224de89'}
+  - {seq: 2, role: markers, filename: assets/KR5c0351_002-ZTDZ.markers.yaml, hash: 'sha256:d0292ed39c1015269daa471996974b85b01829066868454b82ca6250939a92f8'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5c0351_SJB_000-190412c
+    span:
+    - body
+    - 0
+    - 47
+  label: juan 000
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR5c0351_SJB_001-190413b
+    span:
+    - body
+    - 0
+    - 6065
+  label: juan 001
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR5c0351_SJB_002-190419c
+    span:
+    - body
+    - 0
+    - 7413
+  label: juan 002
+  type: section
+  level: 1
+hash: sha256:3a5b565b02d40dba252ee3d893e8d8455d63e5f3d658a18f45676e6c7b848da3

@@ -1,0 +1,121 @@
+canonical_identifier: bkk:krp/KR5c0351/CK-KZ-jye/v1
+canonical_location: https://kanripo.org/bkk/KR5c0351/CK-KZ-jye/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 許真君石函記
+  date: '2015-08-29 00:56:26.043995'
+  source:
+    repository: kanripo
+    path: KR5c0351
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+  edition:
+    short: CK-KZ-jye
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5c0351_000-CK-KZ-jye.yaml, hash: 'sha256:9ad535cd7a03f7d7e824973d68d95b0f0ce9a8813e4c31ce6ed2c6483bf4b812'}
+  - {seq: 1, filename: KR5c0351_001-CK-KZ-jye.yaml, hash: 'sha256:4083d175926826de08cd84551eb5c652c2f6a59566bae151628648aa94d67a7b'}
+  - {seq: 2, filename: KR5c0351_002-CK-KZ-jye.yaml, hash: 'sha256:33dc80aaec0a2271168c5d8072f4962df3e4d19b3a917cda2f6114caa785c068'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR5c0351_001-CK-KZ-jye.markers.yaml, hash: 'sha256:024b6ffe2b09c343d55532f87c085eba0a92c59ff0f6e976b3118c4f4e662ee8'}
+  - {seq: 2, role: markers, filename: assets/KR5c0351_002-CK-KZ-jye.markers.yaml, hash: 'sha256:42f1cc93d0e65416bbd1a9b2c1a789816377d2183082ee021a1733f36c970013'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR5c0351_CK-KZ-jye_001-h2
+    span:
+    - body
+    - 0
+    - 1850
+  label: 太陽元精¶¶¶¶¶¶¶<md:KR5c0351_HFL_000-002b>¶¶¶¶¶¶¶¶<md:KR5c0351_HFL_001-001a>¶論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5c0351_CK-KZ-jye_001-h3
+    span:
+    - body
+    - 1850
+    - 2856
+  label: 日月雌雄論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5c0351_CK-KZ-jye_001-h4
+    span:
+    - body
+    - 2856
+    - 4906
+  label: 藥母論¶<md:KR5c0351_HFL_001-009b>
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5c0351_CK-KZ-jye_001-h5
+    span:
+    - body
+    - 4906
+    - 5875
+  label: 藥物是非論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5c0351_CK-KZ-jye_001-h6
+    span:
+    - body
+    - 5875
+    - 6255
+  label: 丹砂證道歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5c0351_CK-KZ-jye_002-h1
+    span:
+    - body
+    - 0
+    - 1056
+  label: 聖石指玄篇
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5c0351_CK-KZ-jye_002-h2
+    span:
+    - body
+    - 1056
+    - 3507
+  label: 神室圓明論
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5c0351_CK-KZ-jye_002-h3
+    span:
+    - body
+    - 3507
+    - 5392
+  label: 金鼎虛無論¶(金鼎抱神室之郊)
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5c0351_CK-KZ-jye_002-h4
+    span:
+    - body
+    - 5392
+    - 7603
+  label: 明堂正德論¶(明堂在金鼎之中)
+  type: section
+  level: 2
+hash: sha256:e6f8b5361a9b791d7be383a57292a1080e6fb9b4dfcb9c838c7f9a806252af23

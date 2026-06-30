@@ -1,0 +1,52 @@
+canonical_identifier: bkk:krp/KR5c0351/CK-KZ/v1
+canonical_location: https://kanripo.org/bkk/KR5c0351/CK-KZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 許真君石函記
+  date: '2015-08-29 00:56:26.043995'
+  source:
+    repository: kanripo
+    path: KR5c0351
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+  edition:
+    short: CK-KZ
+    label: 【重刊道藏輯要】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5c0351_000-CK-KZ.yaml, hash: 'sha256:0bd1454fa66d29feb32f503fe157434251cccc8db29ec13e4b75e2b2d0dcf8af'}
+  - {seq: 1, filename: KR5c0351_001-CK-KZ.yaml, hash: 'sha256:82bf56897465e6fed6aed1a3b08a1d6ed4eca52c89574f52d552460b36af77b9'}
+  - {seq: 2, filename: KR5c0351_002-CK-KZ.yaml, hash: 'sha256:856253b0514403edb501a5b12dfb9032adf181b5dde1a37c65c439ab87dbc105'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR5c0351_001-CK-KZ.markers.yaml, hash: 'sha256:a01601cc9f60799984a73164644fd4928e6043a692fa90729da06875c0f07d07'}
+  - {seq: 2, role: markers, filename: assets/KR5c0351_002-CK-KZ.markers.yaml, hash: 'sha256:e43b6f7bf9f356ea18e65d1409f984723a5737290fd08300f0f8d09c52c3ee5d'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR5c0351_CK-KZ_01p029a
+    span:
+    - body
+    - 0
+    - 6291
+  label: juan 001
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR5c0351_CK-KZ_01p045a
+    span:
+    - body
+    - 0
+    - 7637
+  label: juan 002
+  type: section
+  level: 1
+hash: sha256:453562aded06d3c79c94461c30c3aec790cda99d78f35fda45fe3e9b7ce849ea
