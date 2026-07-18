@@ -1666,6 +1666,7 @@ markers:
   - {type: variant, offset: 3741, length: 0, content: '', CK-KZ-jye: 一月三十日三五一十五日屬金三五一十五日屬水方謂金水雨停是謂金三五水三五十五日火生十五日火滅是謂火三五}
   - {type: variant, offset: 3741, length: 0, content: '', YP-C: 一月三十日三五一十五日屬金三五一十五日屬水方謂金水雨停是謂金三五水三五十五日火生十五日火滅是謂火三五}
   - {type: punctuation, offset: 3751, content: (, id: KR5c0351_krp_002-bkkpn1}
+  - {type: voice, offset: 3751, length: 5, name: note, id: n1}
   - {type: variant, offset: 3753, length: 2, content: 水將, CK-KZ: ''}
   - {type: variant, offset: 3753, length: 2, content: 水將, CK-KZ-jye: ''}
   - {type: variant, offset: 3753, length: 2, content: 水將, YP-C: ''}
@@ -3225,4 +3226,4 @@ markers:
 
       ', id: KR5c0351_krp_002-bkkkrnewl506}
   back: []
-hash: sha256:34d146ea672fdf1fca836401bade71e124df48d76be722a4e3d6ff1b6fb0baae
+hash: sha256:2ab1ff1243579b29dfea702317baad0d3adcb6a1eb089c723e4ee34b3afed635

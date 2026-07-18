@@ -25,8 +25,8 @@ assets:
   - {seq: 1, filename: KR5c0351_001-CK-KZ-jye.yaml, hash: 'sha256:4083d175926826de08cd84551eb5c652c2f6a59566bae151628648aa94d67a7b'}
   - {seq: 2, filename: KR5c0351_002-CK-KZ-jye.yaml, hash: 'sha256:33dc80aaec0a2271168c5d8072f4962df3e4d19b3a917cda2f6114caa785c068'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR5c0351_001-CK-KZ-jye.markers.yaml, hash: 'sha256:024b6ffe2b09c343d55532f87c085eba0a92c59ff0f6e976b3118c4f4e662ee8'}
-  - {seq: 2, role: markers, filename: assets/KR5c0351_002-CK-KZ-jye.markers.yaml, hash: 'sha256:42f1cc93d0e65416bbd1a9b2c1a789816377d2183082ee021a1733f36c970013'}
+  - {seq: 1, role: markers, filename: assets/KR5c0351_001-CK-KZ-jye.markers.yaml, hash: 'sha256:41695644805d7050587ccfc43853435314bd15ea5f7d8daf04446d5700b9513b'}
+  - {seq: 2, role: markers, filename: assets/KR5c0351_002-CK-KZ-jye.markers.yaml, hash: 'sha256:5b9c0d3d675d80a78a200d23c76abad98dc556e545f6edfd03fb3268549f8853'}
 table_of_contents:
 - ref:
     seq: 1
@@ -118,4 +118,4 @@ table_of_contents:
   label: 明堂正德論¶(明堂在金鼎之中)
   type: section
   level: 2
-hash: sha256:e6f8b5361a9b791d7be383a57292a1080e6fb9b4dfcb9c838c7f9a806252af23
+hash: sha256:450b90cfc068c8f5785702c7b78bc39df5baaae09995e7456450750fe7ab1745
